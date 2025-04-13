@@ -2,9 +2,7 @@
 
 EcoGrid is a modern web application built with React, TypeScript, and Vite, featuring a beautiful UI powered by Radix UI components and styled with Tailwind CSS. It's a comprehensive energy management platform that connects consumers, utilities, and energy providers.
 
-## 🌐 Live Demo
 
-Try out EcoGrid live at: [https://EcoGrid-y57x.vercel.app/](https://EcoGrid-y57x.vercel.app/)
 
 ## 🚀 Features
 
