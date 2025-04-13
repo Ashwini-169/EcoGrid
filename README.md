@@ -18,6 +18,7 @@ EcoGrid is a modern web application built with React, TypeScript, and Vite, feat
 - Dark mode support with next-themes
 - Toast notifications with Sonner
 - Google AI integration
+- Overall a beautiful UI
 
 ### Smart Meter Integration
 - Real-time energy consumption monitoring
